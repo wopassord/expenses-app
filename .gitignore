@@ -1,0 +1,5 @@
+# Personal data never goes into the public app repo
+data/
+*.ods
+*.xlsx
+*.csv
